@@ -1,0 +1,774 @@
+[
+  {
+    "From": "Detroit Lions",
+    "To": "Kansas City Chiefs"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Indianapolis Colts"
+  },
+  {
+    "From": "Tampa Bay Buccaneers",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "New Orleans Saints",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Pittsburgh Steelers"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Houston Texans"
+  },
+  {
+    "From": "Washington Commanders",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Las Vegas Raiders",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "New York Giants"
+  },
+  {
+    "From": "New York Jets",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "Detroit Lions"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Houston Texans"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Jacksonville Jaguars"
+  },
+  {
+    "From": "Tennessee Titans",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Tampa Bay Buccaneers",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "New York Giants",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Washington Commanders",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "New Orleans Saints",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Cleveland Browns"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Jacksonville Jaguars"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Los Angeles Chargers",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "New England Patriots",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Baltimore Ravens"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Arizona Cardinals",
+    "To": "Dallas Cowboys"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "Miami Dolphins"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Cleveland Browns"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Indianapolis Colts"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Pittsburgh Steelers"
+  },
+  {
+    "From": "Tampa Bay Buccaneers",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Tennessee Titans",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Los Angeles Chargers",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Chicago Bears",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "Houston Texans"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "New York Giants"
+  },
+  {
+    "From": "New Orleans Saints",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Baltimore Ravens"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "New York Jets",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Dallas Cowboys"
+  },
+  {
+    "From": "Las Vegas Raiders",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Washington Commanders",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "San Francisco 49ers"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Indianapolis Colts"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Las Vegas Raiders",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "New York Jets",
+    "To": "Philadelphia Eagles"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Chicago Bears",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Indianapolis Colts"
+  },
+  {
+    "From": "New England Patriots",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "New York Giants",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Detroit Lions"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Miami Dolphins"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "San Francisco 49ers"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Carolina Panthers",
+    "To": "Houston Texans"
+  },
+  {
+    "From": "New Orleans Saints",
+    "To": "Indianapolis Colts"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "New York Jets",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Tennessee Titans",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Pittsburgh Steelers"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "Cleveland Browns"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Kansas City Chiefs"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "San Francisco 49ers"
+  },
+  {
+    "From": "Los Angeles Chargers",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Miami Dolphins"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "Los Angeles Rams"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "New Orleans Saints",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Washington Commanders",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Dallas Cowboys"
+  },
+  {
+    "From": "Las Vegas Raiders",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "Los Angeles Chargers",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Chicago Bears",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Jacksonville Jaguars"
+  },
+  {
+    "From": "Minnesota Vikings",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Green Bay Packers"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Baltimore Ravens"
+  },
+  {
+    "From": "Tampa Bay Buccaneers",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Arizona Cardinals",
+    "To": "Atlanta Falcons"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "New York Giants"
+  },
+  {
+    "From": "Seattle Seahawks",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Las Vegas Raiders",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Cleveland Browns",
+    "To": "Pittsburgh Steelers"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "Chicago Bears"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "New York Giants",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Buffalo Bills",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Kansas City Chiefs"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "Detroit Lions"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Pittsburgh Steelers",
+    "To": "Cincinnati Bengals"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Tampa Bay Buccaneers"
+  },
+  {
+    "From": "Jacksonville Jaguars",
+    "To": "Houston Texans"
+  },
+  {
+    "From": "New York Giants",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Tennessee Titans",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Arizona Cardinals"
+  },
+  {
+    "From": "Denver Broncos",
+    "To": "Cleveland Browns"
+  },
+  {
+    "From": "Philadelphia Eagles",
+    "To": "Buffalo Bills"
+  },
+  {
+    "From": "Kansas City Chiefs",
+    "To": "Las Vegas Raiders"
+  },
+  {
+    "From": "Baltimore Ravens",
+    "To": "Los Angeles Chargers"
+  },
+  {
+    "From": "Chicago Bears",
+    "To": "Minnesota Vikings"
+  },
+  {
+    "From": "Dallas Cowboys",
+    "To": "Seattle Seahawks"
+  },
+  {
+    "From": "Houston Texans",
+    "To": "Denver Broncos"
+  },
+  {
+    "From": "Detroit Lions",
+    "To": "New Orleans Saints"
+  },
+  {
+    "From": "Los Angeles Chargers",
+    "To": "New England Patriots"
+  },
+  {
+    "From": "Atlanta Falcons",
+    "To": "New York Jets"
+  },
+  {
+    "From": "Indianapolis Colts",
+    "To": "Tennessee Titans"
+  },
+  {
+    "From": "Arizona Cardinals",
+    "To": "Pittsburgh Steelers"
+  },
+  {
+    "From": "Miami Dolphins",
+    "To": "Washington Commanders"
+  },
+  {
+    "From": "Tampa Bay Buccaneers",
+    "To": "Carolina Panthers"
+  },
+  {
+    "From": "San Francisco 49ers",
+    "To": "Philadelphia Eagles"
+  },
+  {
+    "From": "Los Angeles Rams",
+    "To": "Cleveland Browns"
+  },
+  {
+    "From": "Green Bay Packers",
+    "To": "Kansas City Chiefs"
+  },
+  {
+    "From": "Cincinnati Bengals",
+    "To": "Jacksonville Jaguars"
+  }
+]
